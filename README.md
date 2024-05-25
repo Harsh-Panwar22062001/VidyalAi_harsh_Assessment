@@ -23,7 +23,7 @@ This Project includes tasks ranging from UI fixes to implementing new features a
 - Global ContextAPI implementation for window width detection.
 
 ## Usage
-1. Step-1:git clone https://github.com/Harsh-Panwar22062001/harshpanwar_vidyalai
+1. Step-1:git clone https://github.com/Harsh-Panwar22062001/VidyalAi_harsh_Assessment
 2. Step-2:cd harshpanwar_vidyalai
 3. step-3: npm install
 4: step-4 : npm run dev

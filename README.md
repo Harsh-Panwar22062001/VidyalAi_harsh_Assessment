@@ -29,4 +29,4 @@ This Project includes tasks ranging from UI fixes to implementing new features a
 4: step-4 : npm run dev
 
 
-![alt text](image.png)
+![alt text](image-1.png)
